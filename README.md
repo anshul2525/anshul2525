@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anshul
 
 🎓 Electrical Engineering student (6th Semester) at MANIT  
-📊 Interested in Data Analysis, Business Insights & Applied ML  
+📊 Interested in Data Analysis, Business Insights & Applied Machine Learning  
 🛠 SQL | Excel | Power BI | Machine Learning  
 🎯 Actively preparing for placements
 
@@ -11,25 +11,28 @@
 - SQL (Joins, Subqueries, Aggregations, Case Statements)
 - Excel (Data Cleaning, Analysis, Dashboards)
 - Power BI (Basic Visualizations & Reports)
-- Machine Learning (Basics – Regression, Classification, Model Evaluation)
+- Machine Learning (Regression, Classification, Prediction Models)
 - Data Analysis & Interpretation
 
 ---
 
 ## 📌 Projects
-- 📊 **Vendor Sales Analysis using SQL**  
-  Analyzed vendor-wise sales performance, revenue contribution, and trends using SQL queries to generate business insights.
+- 📊 **Vendor Sales End-to-End Analysis**  
+  Performed complete data analysis on vendor sales data including data cleaning, SQL-based analysis, and insight generation to evaluate vendor performance and revenue contribution.
 
-- 🏥 **Health Insurance Data Analysis using SQL**  
-  Performed structured SQL analysis to identify key cost drivers, risk factors, and claim patterns in insurance data.
+- 🍽 **Zomato Data Analysis using SQL**  
+  Analyzed restaurant and order data using SQL to extract insights on customer preferences, ratings, pricing, and city-wise trends.
 
-(Complete details available in pinned repositories 👇)
+- 🏥 **Health Insurance Cost Prediction (ML Project)**  
+  Built a machine learning prediction model to estimate health insurance charges based on factors like age, BMI, smoking habits, and region.
+
+(Complete project details available in pinned repositories 👇)
 
 ---
 
 ## 🚀 Currently Working On
-- Strengthening SQL & data analysis skills
-- Applying basic machine learning concepts on datasets
+- Enhancing end-to-end data analysis projects
+- Applying machine learning models on real-world datasets
 - Focused placement preparation
 
 ---
@@ -40,4 +43,4 @@
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Feel free to explore my repositories!
