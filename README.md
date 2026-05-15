@@ -18,8 +18,8 @@
 
 ## 📌 Projects
 
-- 🚚 Supply Chain Delivery Performance Analysis
-Performed end-to-end analysis on 180K+ e-commerce orders using Python, Machine Learning, and Power BI to identify delivery bottlenecks, quantify profit at risk, and generate actionable insights to improve on-time delivery performance.
+- 🚚 **Supply Chain Delivery Performance Analysis**  
+  Performed end-to-end analysis on 180K+ e-commerce orders using Python, Machine Learning, and Power BI to identify delivery bottlenecks, quantify profit at risk, and improve on-time delivery performance.
 
 - 📊 **Vendor Sales End-to-End Analysis**  
   Performed complete data analysis on vendor sales data including data cleaning, SQL-based analysis, and insight generation to evaluate vendor performance and revenue contribution.
