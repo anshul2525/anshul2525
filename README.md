@@ -17,14 +17,15 @@
 ---
 
 ## 📌 Projects
+
+- 🚚 **Supply Chain Delivery Performance Analysis**
+Performed end-to-end analysis on 180K+ e-commerce orders using Python, Machine Learning, and Power BI to identify late delivery drivers and quantify financial impact. Built a predictive model with 74% accuracy and developed an interactive dashboard highlighting a 54.7% late delivery rate and $2.1M profit at risk.
+
 - 📊 **Vendor Sales End-to-End Analysis**  
   Performed complete data analysis on vendor sales data including data cleaning, SQL-based analysis, and insight generation to evaluate vendor performance and revenue contribution.
 
 - 🍽 **Zomato Data Analysis using SQL**  
   Analyzed restaurant and order data using SQL to extract insights on customer preferences, ratings, pricing, and city-wise trends.
-
-- 🏥 **Health Insurance Cost Prediction (ML Project)**  
-  Built a machine learning prediction model to estimate health insurance charges based on factors like age, BMI, smoking habits, and region.
 
 (Complete project details available in pinned repositories 👇)
 
