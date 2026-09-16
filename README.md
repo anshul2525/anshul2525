@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anshul
 
-🎓 Electrical Engineering student (6th Semester) at MANIT  
+🎓 Electrical Engineering student (7th Semester) at MANIT  
 📊 Interested in Data Analysis, Business Insights & Applied Machine Learning  
 🛠 SQL | Excel | Power BI | Machine Learning  
 🎯 Actively preparing for placements
